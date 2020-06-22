@@ -1,0 +1,31 @@
+<resources>
+
+    <!--> APP  -->
+    <string name="app_name">MovieKeeper</string>
+
+    <!--> DASHBOARD -->
+    <string name="res_hint_search">Search movies</string>
+    <string name="str_dashboard">Dashboard</string>
+    <string name="str_highest_rated_movies">Recommended Movies</string>
+    <string name="action_1">Add to list</string>
+    <string name="action_2">Dismiss</string>
+    <string name="str_recommendation_text"> Text Text Text</string>
+    <string name="src_recommenation_subtitle">Subtitle</string>
+    <string name="str_recommendation_title">Title </string>
+    <string name="action_remove">Remove from list</string>
+    <string name="srcTitle">Title</string>
+    <string name="string_add_movie">Add</string>
+    <string name="string_last_added">Last Added</string>
+
+    <!--> MOVIE LIBRARY -->
+    <string name="str_movie_library">My Movies</string>
+    <string name="string_movie_library">My Library</string>
+
+    <!--> AUTHENTICATION -->
+    <string name="res_sign_up">Sign Up</string>
+    <string name="res_sign_in">Sign In</string>
+    <string name="res_hint_name" >Name </string>
+    <string name="res_hint_email" >Email </string>
+    <string name="res_hint_password" >Password </string>
+    <string name="str_highest_rated">Highest Rated</string>
+</resources>

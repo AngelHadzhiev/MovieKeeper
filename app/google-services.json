@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "71257218791",
+    "firebase_url": "https://moviekeeper-3c467.firebaseio.com",
+    "project_id": "moviekeeper-3c467",
+    "storage_bucket": "moviekeeper-3c467.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71257218791:android:377595b6f2631bab1d8c42",
+        "android_client_info": {
+          "package_name": "cs.fhict.org.moviekeeper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71257218791-5vbb19io2bu9ghch02dlgrf4jf1djgh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8AeK-DEbwrwrZKZXv3AO--kR55vKCcYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71257218791-5vbb19io2bu9ghch02dlgrf4jf1djgh0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
